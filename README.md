@@ -185,16 +185,3 @@ Slot of `prevContent` and `nextContent` are not supported after `v1.9.5`. You ca
 
 </paginate>
 ```
-
-
-## Demo
-You can see the demo for quickly understand how to use this package.
-
-```sh
-$ git clone git@github.com:lokyoung/vuejs-paginate.git
-$ cd vuejs-paginate
-$ npm install
-$ npm run demo
-```
-
-Check the code from `./demo/index.html` and `./demo/App.vue`.
